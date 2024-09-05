@@ -1,10 +1,15 @@
-# (Testing website) Improving data collection systems and analysis of ICCAT fisheries in the wider Caribbean 
-Testing estructure for static website to develop for the
-proyect **Improving data collection systems and analysis of ICCAT fisheries in the wider Caribbean**
-Team members: DD, FA, MF, MN
+# Improving data collection systems and analysis of ICCAT fisheries in the wider Caribbean 
+Short description of the project and of this website (as a repository of the project).
+
+# Area of interest
+Map of the wider Caribbean.
+
+# Species of interest
+YFT and BUM, but the repository is not limited to those two, as it also includes 
+other species of interest for ICCAT.
 
 # How to access the repositories
-Tutorial explaining step by step how to access to the documents and how to search 
+Tutorial (Manual) explaining step by step how to access to the documents and how to search 
 for an specific document.
 
 # Official Websites
@@ -12,6 +17,7 @@ for an specific document.
 
 # Online databases with information on the Caribbean region
 [SeaAroundUS estimated catch data for the Caribbean](https://www.seaaroundus.org/data/#/lme/12?chart=catch-chart&dimension=taxon&measure=tonnage&limit=10)
+FAO FishStatJ online access to global catches
 
 # Searchable list of documents, files and links related to ICCAT species in the Caribbean
 ## Scientific papers
