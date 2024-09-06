@@ -4,9 +4,11 @@ Short description of the project and of this website (as a repository of the pro
 # Area of interest
 Map of the wider Caribbean.
 
+
 # Species of interest
-YFT and BUM, but the repository is not limited to those two, as it also includes 
-other species of interest for ICCAT.
+Yellofin tuna (Thunnus albacares) and blue marlin () are the species of interest for the project, however the 
+repository is not limited to those two species, as it also includes other species of 
+interest for ICCAT.
 
 # How to access the repositories
 Tutorial (Manual) explaining step by step how to access to the documents and how to search 
