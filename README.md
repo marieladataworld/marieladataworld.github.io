@@ -16,8 +16,6 @@ Map that shows area covered by the Caribbean Sea, to view an interective version
 Dashboard can be access on the next link:
 [Interactive Map of the Caribbean Sea](https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-second test
-![Map of the Caribbea Sea](G:\Mi unidad\A-Mis Documentos\ICCAT\2024\CARIBBEAN project\GitHub)
 
 # Species of interest
 Yellofin tuna (Thunnus albacares) and blue marlin () are the species of interest for the project, however the 
