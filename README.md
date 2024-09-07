@@ -1,7 +1,16 @@
 # Improving data collection systems and analysis of ICCAT fisheries in the wider Caribbean 
-Short description of the project and of this website (as a repository of the project).
+# - Phase 1 -
+This project proposes to help the SCRS identify the most productive activities that can improve the reporting 
+of catches and other fishery data from the Caribbean region. This pilot project proposes a series of activities 
+to help define the scope for a more comprehensive set of future actions.  Five activities are proposed, the first 
+three focus on ICCAT CPC members, and activities one and two use current information available in ICCAT databases 
+or provided by countries in recent capacity-building workshops.  
 
-# Area of interest
+Activity four expands the information sources beyond ICCAT and considers countries that are not CPCs.  The fifth 
+and final activity develops a digital repository of all documents and information identified in the first four 
+activities. This website is design to provide access to the mentioned digital repository.
+
+# Area of study
 Map of the wider Caribbean.
 
 
