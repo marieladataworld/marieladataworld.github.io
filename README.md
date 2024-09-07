@@ -11,7 +11,7 @@ and final activity develops a digital repository of all documents and informatio
 activities. This website is design to provide access to the mentioned digital repository.
 
 # Area of study
-![Map of the Caribbea Sea](https://github.com/marieladataworld/marieladataworld.github.io/blob/main/MapCaribbean_v1.png)
+![Map of the Caribbea Sea](docs/assets/css/MapCaribbean_v1.png)
 Map that shows area covered by the Caribbean Sea, to view an interective version of this map the Tableau 
 Dashboard can be access on the next link:
 [Interactive Map of the Caribbean Sea](https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
