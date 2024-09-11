@@ -48,16 +48,19 @@ Arocha, F., Pazos, A., Larez, A., Marcano, J., & Gutierrez, X. (2013). Enhanced 
 
 Arocha, F., Larez, A., Pazos, A., Gutiérrez, X., Marcano, L. A., & Silva, J. (2015). Billfish catch in the Venezuelan artisanal off-shore pelagic longline fishery: past and present (1986–2013). Col. Vol. Sci. Pap. ICCAT, 71, 2203-2216. [link of access](https://www.iccat.int/Documents/CVSP/CV071_2015/n_5/CV071052203.pdf)
 
-## Technical reports
-- here it will be the link to an Excel file with filters to facilita the searching process.
+Arocha, F., Narvaez, M., & Mendoza, J. (2024). Review of biological data, spatial distribution of the stocks and ecological connectivity between areas beyond national jurisdiction and the exclusive economic zones in the Western Central Atlantic Fishery Commission region. Food & Agriculture Org. [link of access](https://www.fao.org/wecafc/publications/detail/en/c/1708734/)
 
-# Repository with documents
-- Link of acces to online folder (Google Drive or open GitHub repository)
-with Scientific papers.
-- Link of access to online folder (Google Drive or open GitHub repository)
-with Technical reports.
-- Link of access to online folder (Google Drive or open GitHub repository)
-with other documents of interest.
+Brown, C.A., Pastor, R.U., Sansores, R.S. (2004). Updating standardized catch rates for yellowfin tuna (Thunnus albacares) in the Gulf of Mexico longline fishery for 1992-2002 based upon observer programs from Mexico and the United States. ICCAT, 56(2), 676-685. [link of access](https://www.iccat.int/Documents/CVSP/CV056_2004/n_2/CV056020676.pdf) 
+
+Gentner, B. (2016). The value of billfish resources to both commercial and recreational sectors in the Caribbean. FAO Fisheries and Aquaculture Circular, (C1125), I.  [link of access](https://www.proquest.com/docview/1844303193?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals) 
+
+Gentner, B., Arocha, F., Anderson, C., Flett, K., Obregon, P., & van Anrooy, R. (2018). Fishery performance indicator studies for the commercial and recreational pelagic fleets of the Dominican Republic and Grenada. FAO Fisheries and Aquaculture Circular, (C1162), I-68. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/b4984649-c9f5-4900-ad3c-eb659e95fb80/content) 
+
+Grant, S., & Berkes, F. (2004). One hand can't clap": Combining scientific and local knowledge for improved Caribbean fisheries management. In Commons in an Age of Global Transition: Challenges, Risks and Opportunities," the Tenth Conference of the International Association for the Study of Common Property, Oaxaca, Mexico, August (pp. 9-13). [link of access](https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/890e6809-cafc-4e3d-8d9a-97249c04efb0/content) 
+
+Mourato B.L., Hazin H., Hazin F., Travassos P., & Amorim A.F. (2018). Assessing blue marlin catch rates based on Brazilian sport fishing tournaments (1996-2018), using a generalized linear model with tweedie distribution. ICCAT,  75(5), 889-898. [link of access](https://www.iccat.int/Documents/CVSP/CV075_2018/n_5/CV075050889.pdf)
+
+Vallès, H. & S. Varsamos. (2023). Caribbean Regional Management Plan for the Anchored Fish Aggregating Device (aFAD) Fishery. Bridgetown, FAO. 46 pp. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/57ab4d75-2e80-480f-b2ed-661f855223c4/content)
 
 Note: On this website I could also add pictures, images, link to videos
 and longer text.
