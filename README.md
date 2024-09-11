@@ -26,7 +26,7 @@ Figure 2. Map that shows the relative percentage of YFT catches for each country
 ![BUM, *Makaira nigricans*](docs/assets/css/BUM.png)
 Figure 3. Map that shows the relative percentage of BUM catches for each country in the Caribbean region.
 
-To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM](https://public.tableau.com/shared/MTQDBFYXW?:display_count=n&:origin=viz_share_link)
+To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM](https://public.tableau.com/shared/MTQDBFYXW?:display_count=n&:origin=viz_share_link) in which you can use the "Species" filter.
 
 # How to access the repositories
 This repository can be access in two ways:
@@ -35,7 +35,7 @@ or by opening the Google Sheets document [click here](https://docs.google.com/sp
 For the Google Sheet file, you could read the tutorial (Manual) available here: Manual for users.
 
 # Official Websites
-[official ICCAT website](https://www.iccat.int/en/)
+[Official ICCAT website](https://www.iccat.int/en/)
 
 # Online databases with information on the Caribbean region
 [SeaAroundUS estimated catch data for the Caribbean](https://www.seaaroundus.org/data/#/lme/12?chart=catch-chart&dimension=taxon&measure=tonnage&limit=10)
