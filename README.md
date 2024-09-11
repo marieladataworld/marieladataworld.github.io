@@ -15,13 +15,19 @@ activities. This website is design to provide access to the mentioned digital re
 Figure 1. Map that shows area covered by the Caribbean Sea, to view an interactive version of this map the 
 Tableau Dashboard can be access on the next link: [Interactive Map of the Caribbean Sea](https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-# Countries considered for the analysis
-
-
 # Species of interest
 Yellofin tuna (*Thunnus albacares*) and blue marlin (*Makaira nigricans*) are the species of interest for the project, 
 however the repository is not limited to those two species, as it also includes other species of interest for ICCAT.
+
+# Relative percentage of Yellofin tuna (YFT, *Thunnus albacares*) and blue marlin (BUM, *Makaira nigricans*) 
+# catches for countries considered for the analysis
+![YFT, *Thunnus albacares*](docs/assets/css/YFT.png)
+Figure 2. Map that shows the relative percentage of YFT catches for each country in the Caribbean region.
+
+![BUM, *Makaira nigricans*](docs/assets/css/BUM.png)
+Figure 3. Map that shows the relative percentage of BUM catches for each country in the Caribbean region.
+
+To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM]([https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/MTQDBFYXW?:display_count=n&:origin=viz_share_link)
 
 # How to access the repositories
 This repository can be access in two ways:
