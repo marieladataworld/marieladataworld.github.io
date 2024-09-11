@@ -18,7 +18,7 @@ Dashboard can be access on the next link:
 
 
 # Species of interest
-Yellofin tuna (Thunnus albacares) and blue marlin () are the species of interest for the project, however the 
+Yellofin tuna (<em>Thunnus albacares<em>) and blue marlin (<em>Makaira nigricans<em>) are the species of interest for the project, however the 
 repository is not limited to those two species, as it also includes other species of 
 interest for ICCAT.
 
