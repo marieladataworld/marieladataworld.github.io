@@ -26,7 +26,7 @@ Figure 2. Map that shows the relative percentage of YFT catches for each country
 ![BUM, *Makaira nigricans*](docs/assets/css/BUM.png)
 Figure 3. Map that shows the relative percentage of BUM catches for each country in the Caribbean region.
 
-To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM](https://public.tableau.com/shared/MTQDBFYXW?:display_count=n&:origin=viz_share_link) in which you can use the "Species" filter.
+To view an interactive version of the maps the Tableau Dashboard can be access on the next link: [Interactive Map - YFT and BUM](https://public.tableau.com/shared/MTQDBFYXW?:display_count=n&:origin=viz_share_link) in which you can check the filter boxes to filter information by species.
 
 # How to access the repositories
 This repository can be access in two ways:
