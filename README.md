@@ -44,6 +44,8 @@ For the Google Sheet file, you could read the tutorial (Manual) available here: 
 
 # List of documents, files and links related to ICCAT species in the Caribbean
 ## Scientific papers, technical reports and other references:
+Arocha, F., Pazos, A., Larez, A., Marcano, J., & Gutierrez, X. (2013). Enhanced monitoring of large pelagic fishes caught by the Venezuela Artisanal Off-shore Fleet targeting tuna and tuna-like species in the Caribbean Sea and adjacent northwestern Atlantic waters: A preliminary Analysis. Collect. Vol. Sci. Pap. ICCAT, 69(3), 1317-1332. [link of access](https://iccat.int/Documents/CVSP/CV069_2013/n_3/CV069031317.pdf)
+
 Arocha, F., Larez, A., Pazos, A., Gutiérrez, X., Marcano, L. A., & Silva, J. (2015). Billfish catch in the Venezuelan artisanal off-shore pelagic longline fishery: past and present (1986–2013). Col. Vol. Sci. Pap. ICCAT, 71, 2203-2216. [link of access](https://www.iccat.int/Documents/CVSP/CV071_2015/n_5/CV071052203.pdf)
 
 ## Technical reports
