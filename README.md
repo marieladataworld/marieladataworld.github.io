@@ -12,9 +12,11 @@ activities. This website is design to provide access to the mentioned digital re
 
 # Area of study
 ![Map of the Caribbea Sea](docs/assets/css/MapCaribbean_v1.png)
-Map that shows area covered by the Caribbean Sea, to view an interective version of this map the Tableau 
-Dashboard can be access on the next link:
-[Interactive Map of the Caribbean Sea](https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Figure 1. Map that shows area covered by the Caribbean Sea, to view an interactive version of this map the 
+Tableau Dashboard can be access on the next link: [Interactive Map of the Caribbean Sea](https://public.tableau.com/views/Caribbean_Sea_ICCAT/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+# Countries considered for the analysis
 
 
 # Species of interest
@@ -23,12 +25,9 @@ however the repository is not limited to those two species, as it also includes 
 
 # How to access the repositories
 This repository can be access in two ways:
-> List of documents, files and links available on this website to direct access.
->> Please find below websites, online databases and references that you can click on to have direct access to them.
-
-> Database in GoogleSheet format with searchable list of documents, files and links.
->> [Link of access](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing)
->> Tutorial (Manual) explaining step by step how to use the GoogleSheet file to search for links and documents.
+By checking on this website the list of references, databases and websites (which includes links for direct access), 
+or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository.
+For the Google Sheet file, you could read the tutorial (Manual) available here: Manual for users.
 
 # Official Websites
 [official ICCAT website](https://www.iccat.int/en/)
@@ -38,7 +37,7 @@ This repository can be access in two ways:
 [FAO Global capture production Quantity (1950 - 2022)](https://www.fao.org/fishery/statistics-query/en/capture/capture_quantity)
 [Access to ICCAT databases](https://www.iccat.int/en/accesingdb.html#)
 
-# Searchable list of documents, files and links related to ICCAT species in the Caribbean
+# List of documents, files and links related to ICCAT species in the Caribbean
 ## Scientific papers
 - here it will be the link to an Excel file with filters to facilita the searching process.
 ## Technical reports
