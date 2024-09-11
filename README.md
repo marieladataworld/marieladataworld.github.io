@@ -43,8 +43,9 @@ For the Google Sheet file, you could read the tutorial (Manual) available here: 
 [Access to ICCAT databases](https://www.iccat.int/en/accesingdb.html#)
 
 # List of documents, files and links related to ICCAT species in the Caribbean
-## Scientific papers
-- here it will be the link to an Excel file with filters to facilita the searching process.
+## Scientific papers, technical reports and other references:
+Arocha, F., Larez, A., Pazos, A., Gutiérrez, X., Marcano, L. A., & Silva, J. (2015). Billfish catch in the Venezuelan artisanal off-shore pelagic longline fishery: past and present (1986–2013). Col. Vol. Sci. Pap. ICCAT, 71, 2203-2216. [link of access](https://www.iccat.int/Documents/CVSP/CV071_2015/n_5/CV071052203.pdf)
+
 ## Technical reports
 - here it will be the link to an Excel file with filters to facilita the searching process.
 
