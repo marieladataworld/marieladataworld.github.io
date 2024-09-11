@@ -18,20 +18,25 @@ Dashboard can be access on the next link:
 
 
 # Species of interest
-Yellofin tuna (<em>Thunnus albacares<em>) and blue marlin (<em>Makaira nigricans<em>) are the species of interest for the project, however the 
-repository is not limited to those two species, as it also includes other species of 
-interest for ICCAT.
+Yellofin tuna (*Thunnus albacares*) and blue marlin (*Makaira nigricans*) are the species of interest for the project, 
+however the repository is not limited to those two species, as it also includes other species of interest for ICCAT.
 
 # How to access the repositories
-Tutorial (Manual) explaining step by step how to access to the documents and how to search 
-for an specific document.
+This repository can be access in two ways:
+> List of documents, files and links available on this website to direct access.
+>> Please find below websites, online databases and references that you can click on to have direct access to them.
+
+> Database in GoogleSheet format with searchable list of documents, files and links.
+>> [Link of access](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing)
+>> Tutorial (Manual) explaining step by step how to use the GoogleSheet file to search for links and documents.
 
 # Official Websites
 [official ICCAT website](https://www.iccat.int/en/)
 
 # Online databases with information on the Caribbean region
 [SeaAroundUS estimated catch data for the Caribbean](https://www.seaaroundus.org/data/#/lme/12?chart=catch-chart&dimension=taxon&measure=tonnage&limit=10)
-FAO FishStatJ online access to global catches
+[FAO Global capture production Quantity (1950 - 2022)](https://www.fao.org/fishery/statistics-query/en/capture/capture_quantity)
+[Access to ICCAT databases](https://www.iccat.int/en/accesingdb.html#)
 
 # Searchable list of documents, files and links related to ICCAT species in the Caribbean
 ## Scientific papers
