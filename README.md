@@ -19,8 +19,7 @@ Tableau Dashboard can be access on the next link: [Interactive Map of the Caribb
 Yellofin tuna (*Thunnus albacares*) and blue marlin (*Makaira nigricans*) are the species of interest for the project, 
 however the repository is not limited to those two species, as it also includes other species of interest for ICCAT.
 
-# Relative percentage of Yellofin tuna (YFT, *Thunnus albacares*) and blue marlin (BUM, *Makaira nigricans*) 
-# catches for countries considered for the analysis
+# Relative percentage of Yellofin tuna (YFT, *Thunnus albacares*) and blue marlin (BUM, *Makaira nigricans*) catches for countries considered for the analysis
 ![YFT, *Thunnus albacares*](docs/assets/css/YFT.png)
 Figure 2. Map that shows the relative percentage of YFT catches for each country in the Caribbean region.
 
