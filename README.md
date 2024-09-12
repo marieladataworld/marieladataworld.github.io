@@ -31,8 +31,8 @@ To view an interactive version of the maps the Tableau Dashboard can be access o
 # How to access the repositories
 This repository can be access in two ways:
 By checking on this website the list of references, databases and websites (which includes links for direct access), 
-or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository.
-For the Google Sheet file, you could read the tutorial (Manual) available here: Manual for users.
+or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use filter for each column or search
+
 
 # Official Websites
 [Official ICCAT website](https://www.iccat.int/en/)
@@ -53,6 +53,8 @@ Arocha, F., Larez, A., Pazos, A., Gutiérrez, X., Marcano, L. A., & Silva, J. (2
 Arocha, F., Narvaez, M., & Mendoza, J. (2024). Review of biological data, spatial distribution of the stocks and ecological connectivity between areas beyond national jurisdiction and the exclusive economic zones in the Western Central Atlantic Fishery Commission region. Food & Agriculture Org. [link of access](https://www.fao.org/wecafc/publications/detail/en/c/1708734/)
 
 Brown, C.A., Pastor, R.U., Sansores, R.S. (2004). Updating standardized catch rates for yellowfin tuna (Thunnus albacares) in the Gulf of Mexico longline fishery for 1992-2002 based upon observer programs from Mexico and the United States. ICCAT, 56(2), 676-685. [link of access](https://www.iccat.int/Documents/CVSP/CV056_2004/n_2/CV056020676.pdf) 
+
+Charef, Aymen. (2018).  Review of data collection of fisheries statistics in the Republic of Trinidad and Tobago.  Report of Mission, 30 June to 9 July 2018 under Project GCP/INT/228/JPN “Improved fisheries management for sustainable use of marine living resources in the face of changing systems” and Project GCP/SLC/202/SCF “Climate Change Adaptation in the Eastern Caribbean Fisheries Sector- CC4FISH”. FAO. 29p.
 
 Gentner, B. (2016). The value of billfish resources to both commercial and recreational sectors in the Caribbean. FAO Fisheries and Aquaculture Circular, (C1125), I.  [link of access](https://www.proquest.com/docview/1844303193?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals) 
 
