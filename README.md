@@ -37,7 +37,7 @@ as you can see in the next step by step images:
 
 ![Step 2](docs/assets/css/Step2.png)
 
-![Step 3](docs/assets/css/Step1.png)
+![Step 3](docs/assets/css/Step3.png)
 
 # Official Websites
 [Official ICCAT website](https://www.iccat.int/en/)
