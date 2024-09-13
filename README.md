@@ -33,8 +33,11 @@ This repository can be access in two ways:
 By checking below on this website the list of references, databases and websites (which includes links for direct access), 
 or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use filter for each column or search, 
 as you can see in the next step by step images:
+![Step 1](docs/assets/css/Step1.png)
 
+![Step 2](docs/assets/css/Step2.png)
 
+![Step 3](docs/assets/css/Step1.png)
 
 # Official Websites
 [Official ICCAT website](https://www.iccat.int/en/)
@@ -68,5 +71,5 @@ Mourato B.L., Hazin H., Hazin F., Travassos P., & Amorim A.F. (2018). Assessing 
 
 Vallès, H. & S. Varsamos. (2023). Caribbean Regional Management Plan for the Anchored Fish Aggregating Device (aFAD) Fishery. Bridgetown, FAO. 46 pp. [link of access](https://openknowledge.fao.org/server/api/core/bitstreams/57ab4d75-2e80-480f-b2ed-661f855223c4/content)
 
-Note: On this website I could also add pictures, images, link to videos
-and longer text.
+For more information or comments you could write an email to: caribbeandci@gmail.com
+Updated: September 2024
