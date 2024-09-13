@@ -30,8 +30,10 @@ To view an interactive version of the maps the Tableau Dashboard can be access o
 
 # How to access the repositories
 This repository can be access in two ways:
-By checking on this website the list of references, databases and websites (which includes links for direct access), 
-or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use filter for each column or search
+By checking below on this website the list of references, databases and websites (which includes links for direct access), 
+or by opening the Google Sheets document [click here](https://docs.google.com/spreadsheets/d/1Zdjk6D-FWdcXfw-etrk46iC5y6dBT4MA88TSz4rz8nk/edit?usp=sharing) which has a list of all the files, websites and databases of the project repository, so you can use filter for each column or search, 
+as you can see in the next step by step images:
+
 
 
 # Official Websites
